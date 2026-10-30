@@ -50,14 +50,24 @@
 
 7.  задача_7 - можно сохранить текст и выгрузить
 
+- сохранить
+
 ![b](https://github.com/ANYTKA-23/8tasks/blob/main/7.1.png)
+
+- выгрузить
 
 ![b](https://github.com/ANYTKA-23/8tasks/blob/main/7.2.png)
 
 8.  задача_8 - калькулятор простых чисел
 
+- начальный экран
+
 ![b](https://github.com/ANYTKA-23/8tasks/blob/main/8.png)
 
+- готовый результат
+
 ![b](https://github.com/ANYTKA-23/8tasks/blob/main/8.1.png)
+
+- ошибка при неправильном вводе
 
 ![b](https://github.com/ANYTKA-23/8tasks/blob/main/8.2.png)
