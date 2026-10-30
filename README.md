@@ -3,57 +3,61 @@
 
 Задачи:
 0. главный экран - тут указаны задачи
+
+![a](https://github.com/ANYTKA-23/8tasks/blob/main/глав.png)
+
 1. задача_1 - игра на угадай число от 1 до 100
+
 - начальный экран
-![a]()
 
-- видны подсказки и попытки
-![a]()
+![a](https://github.com/ANYTKA-23/8tasks/blob/main/1.png)
 
-- вы выйграли если угадали
+- попытки подсказки
 
-![a]()
+![a](https://github.com/ANYTKA-23/8tasks/blob/main/1попыт-подзк.png)
 
-- можно начать заново или вернуться на главный экран
+- выйгрыш
 
-![a]()
+![a](https://github.com/ANYTKA-23/8tasks/blob/main/1выйгр.png)
+
+- начать заново или назад на главную
+
+![a](https://github.com/ANYTKA-23/8tasks/blob/main/1занов-назад.png)
 
 2. задача_2 - нажав на кнопку будут разные цвета
 
-![q]()
+![q](https://github.com/ANYTKA-23/8tasks/blob/main/2.png)
 
 3. задача_3 - выводит окно того чего вы написали
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/3.png)
 
 4. задача_4 - нажав на кнопку выведет тот текст что написан на кнопке
 
-![bва]()
+![bва](https://github.com/ANYTKA-23/8tasks/blob/main/4.png)
 
 5. задача_5 - нажав на все кнопки появится котик
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/5.1.png)
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/5.2.png)
 
 6.  задача_6 - можно вводит текст блокировать ввод и разблокировать
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/6.1.png)
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/6.2.png)
 
 7.  задача_7 - можно сохранить текст и выгрузить
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/7.1.png)
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/7.2.png)
 
 8.  задача_8 - калькулятор простых чисел
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/8.png)
 
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/8.1.png)
 
-![b]()
-
-![b]()
+![b](https://github.com/ANYTKA-23/8tasks/blob/main/8.2.png)
